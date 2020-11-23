@@ -15,8 +15,8 @@
             "sourceMaps": true,
             "env": {
                 "NODE_ENV": "local",
-                "IotHubConnectionString": "",
-                "EventHubConsumerGroup": "monitoring"
+                "IotHubConnectionString": "HostName=TiteIotHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=E2DPDoIqWJ3uCQsDpQxFGnAgimvsdypAFeTWJk0waJs=",
+                "EventHubConsumerGroup": "titeconsumergroup"
             }
         }
     ]
